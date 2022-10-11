@@ -26,7 +26,8 @@ Here's a walkthrough of implemented user stories:
 
 
 ![userStory](https://user-images.githubusercontent.com/90943713/195113433-2f8bb729-cab4-445f-afc3-d1f11393a60f.gif)
-
+![video0](https://user-images.githubusercontent.com/90943713/195115034-f32498b8-d581-43a0-a578-0be7544a402a.gif)
+![video2](https://user-images.githubusercontent.com/90943713/195115166-3b8bf6f7-7d0f-403e-80df-47d42c13a45c.gif)
 
 <img src='https://imgur.com/a/lseiVV4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://imgur.com/a/4SEKIVd' title='Video Walkthrough2' width='' alt='Video Walkthrough2' />

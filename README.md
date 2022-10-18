@@ -23,14 +23,14 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-stay logged in
-![stayLoggedIn](https://user-images.githubusercontent.com/90943713/196543044-315444e4-1c97-48da-a7ab-1a601702c44d.gif) <br>
-can log out
+stay logged in  <br>
+![stayLoggedIn](https://user-images.githubusercontent.com/90943713/196543044-315444e4-1c97-48da-a7ab-1a601702c44d.gif)
+
+can log out <br>
 ![canLogOut](https://user-images.githubusercontent.com/90943713/196543080-a8f1cecb-63a5-4806-a448-e217989acca2.gif)
-<br>
-adding comments
+
+adding comments <br>
 ![addComment1](https://user-images.githubusercontent.com/90943713/196543094-46e9082f-11e7-461a-bd9b-d66b6c57856f.gif)
-<br>
 ![addComment2](https://user-images.githubusercontent.com/90943713/196543104-9ff5bb27-6c8e-4b93-bdcf-9a74b341b8a3.gif)
 
 
